@@ -16,7 +16,7 @@
 
 ### ⚡ At a glance
 
-✅ **8+ years** building websites &nbsp; ✅ **50+** sites delivered &nbsp; ✅ **+35%** average PageSpeed gain &nbsp; ✅ **Up to +50%** organic traffic &nbsp; ✅ **95+** PageSpeed on enterprise WordPress
+✅ **8+ years** building websites &nbsp; ✅ **50+** sites delivered &nbsp; ✅ **+35%** average PageSpeed gain &nbsp; ✅ **Up to +50%** organic traffic &nbsp; ✅ **Sites for brands in Europe & the US**
 
 ### 🛠️ What I do
 
@@ -53,10 +53,18 @@
 </details>
 
 <details>
-<summary><b>ICCA – International Congress and Convention Association</b> — WordPress · PHP · WP Rocket &nbsp;→&nbsp; <a href="https://iccaworld.org">iccaworld.org</a></summary>
+<summary><b>Taika</b> — WordPress · WooCommerce · PHP · JavaScript &nbsp;→&nbsp; <a href="https://taika.co">taika.co</a></summary>
 <br>
 
-✅ Global site for 1,100+ member organizations &nbsp; ✅ Events calendar &nbsp; ✅ 6 regional chapters &nbsp; ✅ Member portal &nbsp; ✅ WP Rocket caching &nbsp; ✅ Technical SEO with Rank Math &nbsp; ✅ PageSpeed 95+
+✅ DTC beverage store &nbsp; ✅ Product carousel for 6 flavors &nbsp; ✅ Sampler pack offer &nbsp; ✅ Ingredient & benefits sections &nbsp; ✅ Celebrity testimonial block &nbsp; ✅ Mobile-first brand design
+
+</details>
+
+<details>
+<summary><b>Designmuseum Danmark</b> — WordPress · PHP · JavaScript &nbsp;→&nbsp; <a href="https://designmuseum.dk">designmuseum.dk</a></summary>
+<br>
+
+✅ National design museum website &nbsp; ✅ Exhibition pages &nbsp; ✅ Events & activities calendar &nbsp; ✅ Annual pass promotion &nbsp; ✅ Newsletter sign-up &nbsp; ✅ Café & visitor info
 
 </details>
 
@@ -73,14 +81,6 @@
 <br>
 
 ✅ Lead-gen site for a 5-office US agency &nbsp; ✅ AI marketing audit tool &nbsp; ✅ Marketing calculators &nbsp; ✅ Consultation booking &nbsp; ✅ Reusable React components &nbsp; ✅ Marketing team edits everything in Sanity
-
-</details>
-
-<details>
-<summary><b>Benelux Vloerverwarming</b> — Next.js · React · Node.js · Strapi CMS &nbsp;→&nbsp; <a href="https://beneluxvloerverwarming.com">beneluxvloerverwarming.com</a></summary>
-<br>
-
-✅ 40+ qualified leads / month &nbsp; ✅ Quote form priced per m² &nbsp; ✅ WhatsApp contact &nbsp; ✅ AI chat assistant &nbsp; ✅ Headless Next.js on Strapi &nbsp; ✅ Client publishes projects, FAQs & reviews alone
 
 </details>
 
